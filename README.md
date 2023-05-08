@@ -1,4 +1,4 @@
-# Deploy an Oracle Cloud (OCI) Virtual Machine with KopiCloud AD API in Windows Server 2019
+# Deploy a Google Cloud (GCP) Virtual Machine with KopiCloud AD API in Windows Server 2019
 [![Terraform](https://img.shields.io/badge/terraform-v1.3+-blue.svg)](https://www.terraform.io/downloads.html)
 [![KopiCloud-AD](https://img.shields.io/badge/kopiCloud_ad-v1.0+-blueviolet.svg)](https://www.kopicloud-ad-api.com)
 

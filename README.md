@@ -16,7 +16,7 @@ The code will create the network resources (VCP, and Subnet).
 
 ## Configuring Google Cloud Credentials
 
-How to Create a Service Account for Terraform in GCP (Google Cloud Platform)
+Read the document **How to Create a Service Account for Terraform in GCP (Google Cloud Platform)** to configure credentials.
 https://medium.com/@gmusumeci/how-to-create-a-service-account-for-terraform-in-gcp-google-cloud-platform-f75a0cf918d1
 
 ## How to Set Up KopiCloud AD API
@@ -28,3 +28,4 @@ https://medium.com/@gmusumeci/how-to-create-a-service-account-for-terraform-in-g
 3. Join the machine to the AD Domain to manage using the API
 
 4. Run the **KopiCloud AD API Config tool** located in the folder **C:\KopiCloud-AD-API-Config**
+
